@@ -26,7 +26,7 @@ const Work = () => {
             <span>HTML, CSS, JAVASCRIPT, Materialize</span>
           </ListItem>
         </List>
-        <WorkImage src="/images/Fastfly.png" alt="Fastfly" />
+        <WorkImage src="/images/FastFly.png" alt="Fastfly" />
         <WorkImage src="/images/Fastfy2.png" alt="Fastfly" />
 
       </Container>
